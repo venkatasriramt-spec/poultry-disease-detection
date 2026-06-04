@@ -253,7 +253,7 @@ PoultryVision_AI
 # ⚙️ Local Setup
 
 ```bash
-git clone https://github.com/AYUSHMSINGH2004/PoultryVision_AI.git
+git clone https://github.com/venkatasriramt-spec/poultry-disease-detection.git
 cd PoultryVision_AI
 ```
 
