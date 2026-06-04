@@ -1,0 +1,7 @@
+.env
+pb_data/
+node_modules/
+__pycache__/
+*.pyc
+dist/
+build/
