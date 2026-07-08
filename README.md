@@ -1,16 +1,6 @@
 # 🐔 PoultryVision AI
 ### Hierarchical Deep Learning & Grounded Generative AI for Poultry Disease Diagnosis
 
-AI-powered veterinary intelligence system that detects poultry diseases from images and provides medically grounded diagnostic guidance using **Hierarchical CNNs, Explainable AI (Grad-CAM), and Gemini 2.5 Flash (Grounded Generation)**.
-
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
-![React](https://img.shields.io/badge/React-Frontend-61DAFB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-FF6F00)
-![Gemini](https://img.shields.io/badge/Gemini-2.5_Flash-purple)
-![Netlify](https://img.shields.io/badge/Frontend-Netlify-success)
-![Render](https://img.shields.io/badge/Backend-Render-blue)
-
 ---
 
 # 🌐 Live Deployment
